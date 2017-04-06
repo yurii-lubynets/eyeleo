@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Test Case</title>
+    <link rel="stylesheet" href="assets/libs/normalize.css" />
+	<link rel="stylesheet" href="assets/libs/bootstrap.css" />
+	<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+	
+	<div id="wrapper">
+		<div class="header">
+			<div class="container">
+				<div class="logo">
+					<a href="#"><img src="assets/images/logo.png" width="100%" alt="" /></a>
+				</div>
+				<ul class="header--navigation">
+					<li><a href="#Features" class="header--link">Features</a></li>
+					<li><a href="#Community" class="header--link">Community</a></li>
+					<li><a href="#Buy_now" class="header--btn">Buy now</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="home">
+			<div class="container home--container">
+				<div class= "logo2">
+					<a href="#"><img src="assets/images/logo2.png" width="100%" alt="" /></a>
+				</div>
+				<div class = "footprint">
+					<img class = "footprint1 footprint--element" src="assets/images/footprint-1.png" height="50" width="60" alt="" />
+					<img class = "footprint2 footprint--element" src="assets/images/footprint-2.png" height="50" width="60" alt="" />
+					<img class = "footprint3 footprint--element" src="assets/images/footprint-3.png" height="50" width="60" alt="" />
+					<img class = "footprint4 footprint--element" src="assets/images/footprint-4.png" height="50" width="60" alt="" />
+					<img class = "footprint5 footprint--element" src="assets/images/footprint-5.png" height="50" width="60" alt="" />
+					<img class = "footprint6 footprint--element" src="assets/images/footprint-6.png" height="50" width="60" alt="" />
+				</div>
+				<h1>An app that keeps your eyes healthy.</h1>
+				<h3>EyeLeo for Mac is an app rhat regularly reminds you to take a rest for your eyes,<br>shows you simple eye exercises and prevents you from using Mac during these exercises.<br>When you`re working at a computer it`s easy to forget about time. This leads to eye strain<br>and other physical problems. EyeLeo guarantees you won`t forget to take a break.</h3>
+			</div>
+		</div>
+		<div class = "description">
+			<div class = "container">
+				<div class="row description-wrap">
+				<div class="col-sm-6 description-item">
+					<h1>Features</h1>
+					<h3>Screen bloking during break exercises.<br>Short break with eye exercises.<br>Visual explanation of every exercise.<br>Notifications announcing a long break coming.<br>Strict mode that doesn't allow skipping the breaks.<br>Customizable preferences.<br>and more...</h3>
+				</div>
+				<div class="col-sm-6 description-item">
+					<img src="assets/images/mac-screen.png" width="100%" alt="" />
+				</div>
+			</div>
+			</div>
+		</div>
+		<div class = "landing">
+			<div class="container">
+				<div class="row description-wrap">
+					<div class="col-sm-6 landing-item">
+						<img src="assets/images/logo3.png" height="90" width="290" alt="" />
+					</div>
+					<div class="col-sm-6 description-item landing-item">
+						<button class="btn">Buy now</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class = "footer">
+		<div class="container">
+			<div class = "footer-item">
+				<ul class="footer--navigation">
+					<li><a href="#About us">About us</a></li>
+					<li><a href="#Contact us">Contact us</a></li>
+					<li><a href="#fb"><img src="assets/images/facebook.png" width="100%" alt="" /></a></li>
+					<li><a href="#gplus"><img src="assets/images/gplus.png" width="100%" alt="" /></a></li>
+					<li><a href="#tw"><img src="assets/images/twitter.png" width="100%" alt="" /></a></li>
+				</ul>
+				<h3>&copy;Copyright 2016</h3>
+			</div>
+		</div>
+	</div>
+
+	<script src="assets/libs/jquery.1.7.1.min.js"></script>
+	<script>
+		$($(document).ready(function() {
+			$('.footprint1').delay(1000).show(0);
+			$('.footprint2').delay(1500).show(0);
+			$('.footprint3').delay(2000).show(0);
+			$('.footprint4').delay(2500).show(0);
+			$('.footprint5').delay(3000).show(0);
+			$('.footprint6').delay(3500).show(0);
+		}));
+	</script>
+</body>

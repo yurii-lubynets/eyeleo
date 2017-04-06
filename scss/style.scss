@@ -1,0 +1,170 @@
+$font-stack: OpenSans, sans-serif;
+$text-color: #000;
+
+@mixin background-size($cover){
+	-webkit-background-size: $cover;
+	   -moz-background-size: $cover;
+	     -o-background-size: $cover;
+	        background-size: $cover;	
+}
+
+body{
+	padding-bottom: 100px;
+}
+
+.header {
+	position: absolute;
+	left: 0;
+	right: 0;
+	width: 100%;
+	padding: 50px 0 20px;
+	li {
+		float: left;
+		list-style-type: none;
+	}
+	.logo {
+		float: left;
+	}
+	.header--navigation {
+		float: right;
+		padding-top: 5px;
+		.header--link {
+			margin: 0 30px;
+		}
+		.header--btn {
+			margin-left: 30px;
+			padding: 15px 50px;
+			border: 2px solid black;
+		}
+	}
+}
+
+.header--navigation a,
+.footer--navigation a {
+	font: 22px $font-stack;
+	color: $text-color;
+	text-decoration: none;
+	transition: color 300ms linear;
+}
+
+a:hover {
+ 	color: #f1c736;
+}
+
+.home {
+	padding-top: 138px;
+	padding-bottom: 40px;	
+	text-align: center;
+	color: $text-color;
+	background: url(../assets/images/layer-header.png) no-repeat center bottom;
+	@include background-size(cover);
+	.home--container {
+		position: relative;
+	}
+	.logo2 {
+		margin-left: 5%;
+		width: 40%;
+	}
+	.footprint {
+		position: absolute;
+		width: 50%;
+		top: 0;
+		right: 0;
+		height: 100%;
+	}
+}
+
+@media (max-width: 992px) {
+	.footprint {
+		display: none;
+	}
+}
+
+.footprint--element {
+	display: none;
+	position: absolute;
+}
+
+.footprint1{
+	top: 26%;
+    left: 19%;
+}
+
+.footprint2{
+	top: 25%;
+    left: 36%;
+}
+
+.footprint3{
+	top: 29%;
+    left: 53%;
+}
+
+.footprint4{
+	top: 37%;
+    left: 69%;
+}
+
+.footprint5{
+	top: 53%;
+    left: 78%;
+}
+
+.footprint6{
+	top: 72%;
+    left: 79%;
+}
+
+h1 {
+	font: 36px $font-stack;
+}
+
+h3 {
+	font: 22px $font-stack;
+	text-align: center;
+}
+
+.description-item {
+	margin-bottom: 50px;
+	margin-top: 35px;
+	text-align: center; 
+	.btn {
+		display: inline-block;
+		padding: 20px 30px;
+		font: 36px $font-stack;
+		color: $text-color;
+		background: #347a51;
+		cursor: pointer;
+		transition: background 300ms linear;
+		&:hover {
+			background: #f1c736;
+		}
+	}
+}
+
+.landing-item{
+	text-align: center;
+	margin: 85px 0;
+}
+
+.footer{
+	background: url(../assets/images/footer.png) center top;
+	background-size: cover;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	.footer-item{
+		width: 100%;
+		padding-top: 60px;	
+		position: relative;
+		text-align: center;
+		.footer--navigation li {
+			display: inline-block;
+			margin: 0 15px;
+			img {
+				width: 35px;
+			}
+		}
+	}
+}

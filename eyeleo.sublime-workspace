@@ -1,0 +1,465 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"w",
+				"width"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"footp",
+				"footprint1"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"logo",
+				"logo"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"l",
+				"logo"
+			],
+			[
+				"da",
+				"dat2"
+			],
+			[
+				"dat",
+				"dat2"
+			],
+			[
+				"y",
+				"y_pred"
+			],
+			[
+				"C",
+				"Classification"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "eyeleo.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Frontend/Test Case"
+	],
+	"file_history":
+	[
+		"/C/Frontend/Test Case/css/normalize.css",
+		"/C/Frontend/Test Case/css/style.css",
+		"/C/Frontend/Test Case/index.html",
+		"/C/bootstrap/css/bootstrap.css",
+		"/C/Frontend/AlexMarvelo-casechamp-2015-126bc8bc364e/index.html",
+		"/C/Frontend/AlexMarvelo-casechamp-2015-126bc8bc364e/sitemap.xml",
+		"/C/Frontend/AlexMarvelo-casechamp-2015-126bc8bc364e/contacts.html",
+		"/C/Frontend/AlexMarvelo-casechamp-2015-126bc8bc364e/about_cases.html",
+		"/C/Frontend/1.html",
+		"/C/Frontend/Test Case/main.html",
+		"/C/Users/Юрий/Downloads/example/css/style.css",
+		"/C/Users/Юрий/Downloads/example/index.html",
+		"/C/Radacode/sass/style.scss",
+		"/C/Radacode/main.html",
+		"/C/Radacode/stylesheets/style.css",
+		"/C/Frontend/AlexMarvelo-casechamp-2015-126bc8bc364e/css/css/flow.css",
+		"/C/Frontend/AlexMarvelo-casechamp-2015-126bc8bc364e/css/css/normalize.css",
+		"/C/Frontend/AlexMarvelo-casechamp-2015-126bc8bc364e/css/css/main.css",
+		"/C/Radacode/css/style.css",
+		"/C/Radacode/css/style.scss",
+		"/C/Radacode/css/style.cscc",
+		"/C/Radacode/sass/st.scss",
+		"/C/Radacode/style1.scss",
+		"/C/Radacode/style1.sass",
+		"/C/Users/Юрий/Downloads/EyeleoSiteLayout.psd",
+		"/C/Users/Юрий/Desktop/Resources.resx",
+		"/C/EdEra/geomon69/struktura_ta_zmist.md",
+		"/C/EdEra/geomon69/poyasnuvalna_zapyska.md",
+		"/C/EdEra/geomon69/SUMMARY.md",
+		"/C/EdEra/geomon69/object_potential.md",
+		"/C/EdEra/geomon69/4/naukova_diyalnist_osvyta_okhorona_zdorovya.md",
+		"/C/EdEra/geomon69/4/vyrobnyctbo_kharchovykh_productyv_napoiv.md",
+		"/C/EdEra/geomon69/4/nac_ekonomyka.md",
+		"/C/EdEra/geomon69/4/vstup.md",
+		"/C/EdEra/geomon69/4/globalny_systemy_lyudstva.md",
+		"/C/EdEra/geomon69/4/fynansy_programuvannya.md",
+		"/C/EdEra/geomon69/4/turyzm.md",
+		"/C/EdEra/geomon69/4/torgivlya.md",
+		"/C/EdEra/geomon69/4/transport.md",
+		"/C/EdEra/geomon69/4/vyrobnyctbo_tkanyn_odyagu_vzuttya.md",
+		"/C/EdEra/geomon69/4/vyrobnyctbo_mashyn_ta_ustatkuvannya.md",
+		"/C/EdEra/geomon69/4/khim_vyrobnyctvo.md",
+		"/C/EdEra/geomon69/4/metalurgiya.md",
+		"/C/EdEra/geomon69/4/elektroenergiya.md",
+		"/C/EdEra/geomon69/4/vydobuvna_promyslovyst.md",
+		"/C/EdEra/geomon69/4/lisove_gospodarstvo.md",
+		"/C/EdEra/geomon69/4/silske_gospodarstvo.md",
+		"/C/EdEra/geomon69/4/svytove_gospodarstvo.md",
+		"/C/EdEra/geomon69/3/formuvannya_terytoryy_ukrainy.md",
+		"/C/EdEra/geomon69/3/relyef.md",
+		"/C/EdEra/geomon69/3/vody.md",
+		"/C/EdEra/geomon69/3/landshafty.md",
+		"/C/EdEra/geomon69/3/pryrodokorystuvannya.md",
+		"/C/EdEra/geomon69/3/demographiya.md",
+		"/C/EdEra/geomon69/3/pryroda_ta_naselennya_svogo_admin_regiony.md",
+		"/C/EdEra/geomon69/3/vstup.md",
+		"/C/EdEra/geomon69/3/etnychnyu_sklad.md",
+		"/C/EdEra/geomon69/3/relygyunyu_sklad.md",
+		"/C/EdEra/geomon69/3/zaynyatist_naselennya.md",
+		"/C/EdEra/geomon69/3/rozselennya.md",
+		"/C/EdEra/geomon69/3/naselennya_ukraini_ta_svytu.md",
+		"/C/EdEra/geomon69/3/tvarynnyu_svyt.md",
+		"/C/EdEra/geomon69/3/klimat.md",
+		"/C/EdEra/geomon69/3/grunty.md",
+		"/C/EdEra/geomon69/3/roslynnyst.md",
+		"/C/EdEra/geomon69/3/topografychny_karta.md",
+		"/C/EdEra/geomon69/3/ukraina_na_karty_godynnekh_poyasiv.md",
+		"/C/EdEra/geomon69/3/ukraina_na_polytchniy_karti_evropy.md",
+		"/C/EdEra/geomon69/3/geographychna_karta.md",
+		"/C/EdEra/geomon69/1/vstup.md",
+		"/C/EdEra/geomon69/2/ekologichny_problemy.md",
+		"/C/EdEra/geomon69/2/vykorystannya_pryrodnykh_bagatstv.md",
+		"/C/EdEra/geomon69/2/afryka.md",
+		"/C/EdEra/geomon69/2/pyvnychnyu_lodovytyu_okean.md",
+		"/C/EdEra/geomon69/2/tykhiy_okean.md",
+		"/C/EdEra/geomon69/2/atlantychnyu_okean.md",
+		"/C/EdEra/geomon69/2/indiyskyu_okean.md",
+		"/C/EdEra/geomon69/2/pyvnychna_ameryka.md",
+		"/C/EdEra/geomon69/2/evraziya.md",
+		"/C/EdEra/geomon69/2/antarktyda.md",
+		"/C/EdEra/geomon69/2/pryroda_materyka.md",
+		"/C/EdEra/geomon69/2/australiya.md",
+		"/C/EdEra/geomon69/2/pyvdenna_ameryka.md",
+		"/C/EdEra/geomon69/2/materyky_ta_okeany.md",
+		"/C/EdEra/geomon69/2/forma_ta_rukhy_zemly.md",
+		"/C/EdEra/geomon69/1/planeta_ludey.md",
+		"/C/EdEra/geomon69/2/vstup.md",
+		"/C/EdEra/geomon69/1/biosfera_ta_grunty.md",
+		"/C/EdEra/geomon69/1/Vplyv_lyudyny_na_pryrodu.md",
+		"/C/EdEra/geomon69/1/Derzhavy_svitu.md",
+		"/C/EdEra/geomon69/1/Kilkist_i_rozmishchennya_naselennya_na_Zemli.md",
+		"/C/Users/Юрий/Downloads/Taxes.py",
+		"/C/EdEra/geomon69/1/Kilkist_i_rozmishchennya_naselennya.md",
+		"/C/EdEra/geomon69/1/lytosfera.md",
+		"/C/EdEra/geomon69/1/atmosfera.md",
+		"/C/EdEra/geomon69/1/gydrosfera.md",
+		"/C/EdEra/geomon69/1/vydkryttya_novykh_zemel_ta_navkolosvytny_podorozhy.md",
+		"/C/EdEra/geomon69/1/pryrodny_kompleksy.md",
+		"/C/EdEra/geomon69/1/geographychny_koordynaty.md",
+		"/C/EdEra/geomon69/1/sposoby_zobrazhennya_zemly.md",
+		"/C/EdEra/geomon69/1/orientuvannya_na_miscevosty.md",
+		"/C/EdEra/geomon69/1/suchasny_doslydzhennya.md",
+		"/C/EdEra/geomon69/1/zemlya_na_planety_ta_karty.md",
+		"/C/EdEra/geomon69/1/uyavlennya_pro_zemlu_u_davnynu.md",
+		"/C/EdEra/geomon69/1/znannya_pro_zemlyu.md",
+		"/C/EdEra/geomon69/1/obolonky_zemly.md",
+		"/C/EdEra/geomon69/1/object_potential.md",
+		"/C/EdEra/geomon69/1/6_klas.md",
+		"/C/Frontend/stylesheet",
+		"/C/Frontend/AlexMarvelo-casechamp-2015-126bc8bc364e/js/common.js",
+		"/C/Program Files (x86)/PostgreSQL/9.4/data/pg_hba.conf",
+		"/C/Program Files/PostgreSQL/9.5/data/pg_hba.conf",
+		"/C/S&S/4 курс/ТПР/Chemicals-master/pom.xml",
+		"/C/Учеба и Наука/Conf/Simulation_modeling.ipynb",
+		"/C/DbWrench/etc/DbWrench.conf",
+		"/C/Учеба и Наука/Курсач/Data/lead1.csv",
+		"/C/Users/Юрий/Desktop/Отчет/code/coursework.py",
+		"/C/Учеба и Наука/Курсач/Data/Markings.csv",
+		"/C/Учеба и Наука/coursework.py",
+		"/C/Users/Юрий/Desktop/Markings2.csv",
+		"/C/Учеба и Наука/Курсач/Data/lead1.whs.INFO.leadNum.1.csv",
+		"/C/Users/Юрий/Desktop/Markings.csv",
+		"/C/Users/Юрий/Documents/00cd6fa3.ecgl1.csv",
+		"/C/Учеба и Наука/Markings1.csv",
+		"/C/Учеба и Наука/Markings2.csv",
+		"/C/Учеба и Наука/Markings3.csv",
+		"/C/Users/Юрий/Desktop/naive-bayes-0.1.1/setup.py",
+		"/C/Users/Юрий/Downloads/diff13.csv"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"-fluid",
+			"logo",
+			"position",
+			"50px",
+			"30px",
+			"bottom",
+			": ",
+			"}",
+			">\n",
+			";\n",
+			"11.407",
+			"життєдіяльності",
+			"океану",
+			">\n",
+			"\n</",
+			".</",
+			">",
+			"code {\n  background: #2db34a;\n  border-radius: 6px;\n  color: #fff;\n  display: block;\n  font: 14px/24px \"Source Code Pro\", Inconsolata, \"Lucida Console\", Terminal, \"Courier New\", Courier;\n  padding: 24px 15px;\n  text-align: center;\n}\nheader,\nsection,\naside,\nfooter {\n  margin: 0 1.5% 24px 1.5%;\n}\nsection {\n  float: left;\n  margin: 0 1.5%;\n  width: 30%;\n}\n\naside {\n  float: right;\n  width: 30%;\n}\nfooter {\n  clear: both;\n  margin-bottom: 0;\n}",
+			"}\n",
+			"\t<",
+			"\t\t<",
+			" {",
+			"dat2",
+			"3.9",
+			"757",
+			"6,5",
+			",",
+			"of",
+			"dataset",
+			"as_float_array",
+			"__all__",
+			"signature",
+			"BaseNB",
+			"BaseEstimator",
+			"*"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "eyeleo.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "eyeleo.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
