@@ -1,6 +1,6 @@
-body {
+/*body {
   padding-bottom: 100px; }
-
+*/
 .header {
   position: absolute;
   left: 0;
@@ -37,7 +37,7 @@ a:hover {
   padding-bottom: 40px;
   text-align: center;
   color: #000;
-  background-color: #00ff38;
+  background-color: #009C6E;
   /*background: url(assets/images/layer-header.png) no-repeat center bottom;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -114,7 +114,8 @@ h3 {
   margin: 85px 0; }
 
 .footer {
-  background: url(assets/images/footer.png) center top;
+  background-color: #009C6E;
+  /*background: url(assets/images/footer.png) center top;*/
   background-size: cover;
   /*position: fixed;*/
   bottom: 0;
