@@ -37,7 +37,8 @@ a:hover {
   padding-bottom: 40px;
   text-align: center;
   color: #000;
-  background: url(assets/images/layer-header.png) no-repeat center bottom;
+  background-color: #00ff38;
+  /*background: url(assets/images/layer-header.png) no-repeat center bottom;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -115,7 +116,7 @@ h3 {
 .footer {
   background: url(assets/images/footer.png) center top;
   background-size: cover;
-  position: fixed;
+  /*position: fixed;*/
   bottom: 0;
   left: 0;
   width: 100%; }
